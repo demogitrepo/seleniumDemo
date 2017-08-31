@@ -1,10 +1,10 @@
-#1. Installation:#
+# 1. Installation: #
 
   1. npm install --global mocha
   2. npm install chai --save-dev
   3. https://www.npmjs.com/package/selenium-webdriver
 
-#2. what to read:#
+# 2. what to read: #
 
   1. https://www.w3schools.com/js/
   2. https://www.w3schools.com/nodejs/
