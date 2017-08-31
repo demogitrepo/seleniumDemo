@@ -1,0 +1,14 @@
+{
+  "name": "selenium-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1"
+  }
+}
