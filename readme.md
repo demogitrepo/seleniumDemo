@@ -1,8 +1,11 @@
 # 1. Installation: #
 
-  1. npm install --global mocha
-  2. npm install chai --save-dev
-  3. https://www.npmjs.com/package/selenium-webdriver
+  1. clone project git@github.com:demogitrepo/seleniumDemo.git
+  2. cd seleniumDemo
+  3. npm install (make sure you have nodejs and npm installed)
+  2. npm install --global mocha
+  3. npm install chai --save-dev
+  4. https://www.npmjs.com/package/selenium-webdriver
 
 # 2. what to read: #
 
